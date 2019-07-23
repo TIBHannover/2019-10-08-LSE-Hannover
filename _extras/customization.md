@@ -108,9 +108,9 @@ The header may optionally define the following:
 ## Home Page: Schedule and Syllabus
 
 You should edit the sections titled `Schedule` and `Syllabus`
-so that they show what you're actually planning to teach and when.  These 
-files are located in the appropriate workshop folder (`dc`, `lc` or `swc`) 
-inside the `_includes` folder.  
+so that they show what you're actually planning to teach and when.  These
+files are located in the appropriate workshop folder (`dc`, `lc` or `swc`)
+inside the `_includes` folder.
 
 ## Home Page: Setup
 
