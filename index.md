@@ -168,7 +168,7 @@ Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
   <strong>Contact</strong>:
-  Please email
+  Please <a href="https://studip.uni-hannover.de/dispatch.php/course/details?sem_id=fa6bcfcb22518976f33b64f6b160f34f">register yourself via Stud.IP</a> if possible. If not, please email
   {% if page.email %}
   {% for email in page.email %}
   {% if forloop.last and page.email.size > 1 %}
@@ -183,7 +183,7 @@ Display the contact email address set in the configuration file.
   {% else %}
   to-be-announced
   {% endif %}
-  for more information.
+  and briefly explain your motivation to attend the workshop. We have about 5 seats for non-LSE attendees and will inform you about our selection on Sept. 30th.
 </p>
 
 <hr/>
